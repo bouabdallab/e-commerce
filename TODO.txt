@@ -1,13 +1,13 @@
 Todo list:
 
--DONE Install and setup django 
--DONE install and setup vue 
--DONE include fontawesome 
--DONE setup base template 
--DONE create django app and models for products 
--DONE create serializer and views for the prpoducts
--DONE create simple frontpage
--view a product
+- Install and setup django ok
+- install and setup vue ok
+- include fontawesome ok
+- setup base template ok
+- create django app and models for products ok
+- create serializer and views for the ppoducts ok
+- create simple frontpage ok
+-view a product en cours
 		-create viewset in django
 		-create vue page for showing product
 		-add link to detail page
